@@ -1,8 +1,7 @@
 name: lorr
 description: Simple & Lightweight Error Handling Solution
-version: 0.0.1
-author:
-homepage:
+version: 0.0.2
+repository: https://github.com/topperspal/lorr.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
