@@ -2,6 +2,6 @@
 
 - Initial Release
 
-## [0.0.1] - 25-04-2021
+## [0.0.2] - 25-04-2021
 
-- Docs added!
+- This package has been replaced with Either package on pub.dev
